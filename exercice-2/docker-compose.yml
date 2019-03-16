@@ -1,0 +1,10 @@
+version: '3'
+services:
+  web:
+    ###
+    # Inserer les actions concernant l'application web NodeJS
+    ###
+  redis:
+    ###
+    # Inserer les actions concernant redis
+    ###
